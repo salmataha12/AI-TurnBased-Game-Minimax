@@ -53,3 +53,10 @@ Performs depth-first exploration of possible moves and undoing decisions to find
 1. Clone the repository:
    ```bash
    git clone https://github.com/<your-username>/AI-TurnBased-Game-Minimax.git
+   ```
+2. Open the project in Visual Studio.
+3. Build the solution:
+   Build → Build Solution
+4. Run the game:
+   Debug → Start Without Debugging
+
